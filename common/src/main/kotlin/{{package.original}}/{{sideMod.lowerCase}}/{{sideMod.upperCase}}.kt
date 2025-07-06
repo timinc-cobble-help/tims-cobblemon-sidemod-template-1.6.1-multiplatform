@@ -1,4 +1,4 @@
-package us.timinc.mc.cobblemon.{{sideMod.lowerCase}}
+package {{package.original}}.{{sideMod.lowerCase}}
 
 import us.timinc.mc.cobblemon.timcore.AbstractConfig
 import us.timinc.mc.cobblemon.timcore.AbstractMod
