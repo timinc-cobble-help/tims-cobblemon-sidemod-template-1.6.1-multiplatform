@@ -13,7 +13,7 @@
     "main": [
       {
         "adapter": "kotlin",
-        "value": "us.timinc.mc.cobblemon.capturexp.fabric.{{sideMod.upperCase}}Fabric"
+        "value": "{{package.original}}.{{sideMod.lowerCase}}.fabric.{{sideMod.upperCase}}Fabric"
       }
     ]
   },
